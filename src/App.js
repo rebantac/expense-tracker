@@ -26,7 +26,7 @@ const App = () => {
         </Grid>
       </Grid>
 
-      <Footer />
+      <Footer className={classes.desktop}/>
     </div>
   )
 }
