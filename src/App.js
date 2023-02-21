@@ -26,7 +26,7 @@ const App = () => {
         </Grid>
       </Grid>
 
-      <Footer className={classes.desktop}/>
+      <Footer className={classes.mobile}/>
     </div>
   )
 }
